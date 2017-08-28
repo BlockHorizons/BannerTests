@@ -1,0 +1,7 @@
+---
+name: BannerTests
+author: BlockHorizons
+version: 1.0
+api: [3.0.0-ALPHA7]
+main: BannerTests\BannerTests
+...
